@@ -1,0 +1,17 @@
+.Hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-color: #f0f0f0; 
+  }
+  
+  .hero-image {
+    display: flex;
+    max-width: 1900px;
+    max-height: 100%;
+    width: 100%;
+    height: auto;
+    filter: opacity(60%);
+  }
+  
